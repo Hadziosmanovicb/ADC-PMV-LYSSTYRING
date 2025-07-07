@@ -1,0 +1,10 @@
+{
+    "idf.port": "/dev/cu.usbmodem14101",
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "io.h": "c",
+        "i2c.h": "c",
+        "led.h": "c",
+        "interrupt.h": "c"
+    }
+}
